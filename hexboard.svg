@@ -1,0 +1,370 @@
+
+
+<svg  xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      height="51.96152422706631mm" width="87.5mm"
+>
+
+<!-- dark edges -->
+  <line x1="3.75mm"
+        y1="2.1650635094610964mm"
+        x2="56.25mm"
+        y2="2.1650635094610964mm"
+        style="stroke:rgb(0,0,0);stroke-width:1.0825317547305482mm"  
+   />
+  <line x1="28.75mm"
+        y1="49.79646071760522mm"
+        x2="81.25mm"
+        y2="49.79646071760522mm"
+        style="stroke:rgb(0,0,0);stroke-width:1.0825317547305482mm"  
+   />
+
+<!-- outside boundry -->
+  <line x1="0mm" y1="4.330127018922193mm" x2="2.5mm" y2="0mm" style="stroke:rgb(0,0,255);stroke-width:0.1mm" />
+<line x1="2.5mm" y1="0mm" x2="57.5mm" y2="0mm" style="stroke:rgb(0,0,255);stroke-width:0.1mm" />
+<line x1="57.5mm" y1="0mm" x2="85.0mm" y2="47.63139720814412mm" style="stroke:rgb(0,0,255);stroke-width:0.1mm" />
+<line x1="85.0mm" y1="47.63139720814412mm" x2="82.5mm" y2="51.96152422706631mm" style="stroke:rgb(0,0,255);stroke-width:0.1mm" />
+<line x1="82.5mm" y1="51.96152422706631mm" x2="27.5mm" y2="51.96152422706631mm" style="stroke:rgb(0,0,255);stroke-width:0.1mm" />
+<line x1="27.5mm" y1="51.96152422706631mm" x2="0mm" y2="4.330127018922193mm" style="stroke:rgb(0,0,255);stroke-width:0.1mm" />
+
+<!-- game grid -->
+
+
+  <!-- horizontal line 0 -->
+  <line x1="5.0mm"
+        y1="4.330127018922193mm"
+        x2="55.0mm"
+        y2="4.330127018922193mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 0 -->
+  <line x1="5.0mm"
+        y1="4.330127018922193mm"
+        x2="30.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 1 -->
+  <line x1="7.5mm"
+        y1="8.660254037844386mm"
+        x2="57.5mm"
+        y2="8.660254037844386mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 1 -->
+  <line x1="10.0mm"
+        y1="4.330127018922193mm"
+        x2="35.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 2 -->
+  <line x1="10.0mm"
+        y1="12.990381056766578mm"
+        x2="60.0mm"
+        y2="12.990381056766578mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 2 -->
+  <line x1="15.0mm"
+        y1="4.330127018922193mm"
+        x2="40.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 3 -->
+  <line x1="12.5mm"
+        y1="17.32050807568877mm"
+        x2="62.5mm"
+        y2="17.32050807568877mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 3 -->
+  <line x1="20.0mm"
+        y1="4.330127018922193mm"
+        x2="45.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 4 -->
+  <line x1="15.0mm"
+        y1="21.650635094610962mm"
+        x2="65.0mm"
+        y2="21.650635094610962mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 4 -->
+  <line x1="25.0mm"
+        y1="4.330127018922193mm"
+        x2="50.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 5 -->
+  <line x1="17.5mm"
+        y1="25.980762113533157mm"
+        x2="67.5mm"
+        y2="25.980762113533157mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 5 -->
+  <line x1="30.0mm"
+        y1="4.330127018922193mm"
+        x2="55.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 6 -->
+  <line x1="20.0mm"
+        y1="30.31088913245535mm"
+        x2="70.0mm"
+        y2="30.31088913245535mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 6 -->
+  <line x1="35.0mm"
+        y1="4.330127018922193mm"
+        x2="60.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 7 -->
+  <line x1="22.5mm"
+        y1="34.64101615137754mm"
+        x2="72.5mm"
+        y2="34.64101615137754mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 7 -->
+  <line x1="40.0mm"
+        y1="4.330127018922193mm"
+        x2="65.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 8 -->
+  <line x1="25.0mm"
+        y1="38.97114317029973mm"
+        x2="75.0mm"
+        y2="38.97114317029973mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 8 -->
+  <line x1="45.0mm"
+        y1="4.330127018922193mm"
+        x2="70.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 9 -->
+  <line x1="27.5mm"
+        y1="43.301270189221924mm"
+        x2="77.5mm"
+        y2="43.301270189221924mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 9 -->
+  <line x1="50.0mm"
+        y1="4.330127018922193mm"
+        x2="75.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <!-- horizontal line 10 -->
+  <line x1="30.0mm"
+        y1="47.63139720814412mm"
+        x2="80.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+   
+   <!-- long diagonal line 10 -->
+  <line x1="55.0mm"
+        y1="4.330127018922193mm"
+        x2="80.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+
+
+  <line x1="10.0mm"
+        y1="4.330127018922193mm"
+        x2="7.5mm"
+        y2="8.660254037844386mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="15.0mm"
+        y1="4.330127018922193mm"
+        x2="10.0mm"
+        y2="12.990381056766578mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="20.0mm"
+        y1="4.330127018922193mm"
+        x2="12.5mm"
+        y2="17.32050807568877mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="25.0mm"
+        y1="4.330127018922193mm"
+        x2="15.0mm"
+        y2="21.650635094610962mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="30.0mm"
+        y1="4.330127018922193mm"
+        x2="17.5mm"
+        y2="25.980762113533157mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="35.0mm"
+        y1="4.330127018922193mm"
+        x2="20.0mm"
+        y2="30.31088913245535mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="40.0mm"
+        y1="4.330127018922193mm"
+        x2="22.5mm"
+        y2="34.64101615137754mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="45.0mm"
+        y1="4.330127018922193mm"
+        x2="25.0mm"
+        y2="38.97114317029973mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="50.0mm"
+        y1="4.330127018922193mm"
+        x2="27.5mm"
+        y2="43.301270189221924mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="55.0mm"
+        y1="4.330127018922193mm"
+        x2="30.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+  <line x1="57.5mm"
+        y1="8.660254037844386mm"
+        x2="35.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="60.0mm"
+        y1="12.990381056766578mm"
+        x2="40.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="62.5mm"
+        y1="17.32050807568877mm"
+        x2="45.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="65.0mm"
+        y1="21.650635094610962mm"
+        x2="50.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="67.5mm"
+        y1="25.980762113533157mm"
+        x2="55.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="70.0mm"
+        y1="30.31088913245535mm"
+        x2="60.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="72.5mm"
+        y1="34.64101615137754mm"
+        x2="65.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="75.0mm"
+        y1="38.97114317029973mm"
+        x2="70.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+  <line x1="77.5mm"
+        y1="43.301270189221924mm"
+        x2="75.0mm"
+        y2="47.63139720814412mm"
+        style="stroke:rgb(255,0,0);stroke-width:0.1mm"  
+   />
+
+
+<!-- dots -->
+      <circle cx="20.0mm" cy="12.990381056766578mm" r="0.5mm" stroke="none" fill="black" />
+
+      <circle cx="35.0mm" cy="38.97114317029973mm" r="0.5mm" stroke="none" fill="black" />
+
+      <circle cx="50.0mm" cy="12.990381056766578mm" r="0.5mm" stroke="none" fill="black" />
+
+      <circle cx="65.0mm" cy="38.97114317029973mm" r="0.5mm" stroke="none" fill="black" />
+
+      <circle cx="42.5mm" cy="25.980762113533157mm" r="0.5mm" stroke="none" fill="black" />
+
+ 
+
+</svg>
